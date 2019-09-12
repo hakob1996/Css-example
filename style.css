@@ -1,0 +1,55 @@
+#div1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 100%;
+    width: 100%;
+    font-size: 35px;
+    text-decoration: underline;
+    margin: auto;
+}
+body{
+    border-style: solid;
+    border-color: aqua;
+    border-top: none;
+    border-bottom: none;
+
+}
+#smaller{
+    text-align: center;
+
+}
+
+#evensmaller{
+    text-align: center;
+}
+#P1{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#imgdiv{
+    text-align: center;
+}
+#image{
+    height: 300px;
+    width: 300px;
+
+}
+#h3{
+    text-align: center;
+    font-size: 40px;
+}
+#seconddiv{
+    text-align: center;
+    border-style: solid;
+    border-color: blue;
+    margin: auto;
+    align-content: center;
+    padding: 6px;
+}
+.ul{
+    font-size: 25px;
+    
+}
